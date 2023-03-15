@@ -1,6 +1,6 @@
 {
   "title": "Ubuntu simple",
   "backend": {
-    "imageid": "alpine"
+    "imageid": "kubernetes-kubeadm-1node"
   }
 }
